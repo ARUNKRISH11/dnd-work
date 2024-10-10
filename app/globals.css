@@ -633,6 +633,10 @@
   background-image: url(../assets/footer.png);
 }
 
+.dark .footer {
+  background-image: url(../assets/dark-footer.png);
+}
+
 .footer_logo {
   width: 220px;
   height: 120px;
@@ -641,6 +645,10 @@
   background-size: 100%;
   margin-left: 580px;
   margin-top: 0px;
+}
+
+.dark .footer_logo {
+  background-image: url(../assets/dark-footer-logo.png);
 }
 
 .footer_line {
